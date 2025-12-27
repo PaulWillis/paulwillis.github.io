@@ -53,7 +53,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Welcome to My GitHub Pages Site!</h1>
+            <h1>Welcome to Site!</h1>
             <p>A simple, nice HTML page hosted for free.</p>
         </header>
         
