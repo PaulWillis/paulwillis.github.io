@@ -69,7 +69,7 @@
             <div class="project-card">
                 <h3>Project One</h3>
                 <p>A description of the first project. It does something amazing.</p>
-                <a href="https://github.com/[your-username]/[your-repo-name]" target="_blank">View on GitHub</a>
+                <a href="https://github.com/PaulWillis/AlienPomodoro" target="_blank">View on GitHub</a>
             </div>
             <div class="project-card">
                 <h3>Project Two</h3>
